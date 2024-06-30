@@ -13,4 +13,4 @@ When connected to a development board, values corresponding to intensity can be 
 By calculating the difference between these values the ldr which has higher intensity can be determined.
 After getting this data the servo motor that is attached to the mechanical support can be made to move to that angle where the solar panel is exposed to the Sun resulting in higher energy absorption. In the code.ino the servo is allowed to rotate from 30 degrees to 180 degrees. This range can be changed in order to get maximum power for maximum time. <br>
 This process is repeated until the Ldr data suggests that the mechanical support is perpendicular to the light falling on it.<br><br>
-Implementation Video : <a href="https://drive.google.com/file/d/1W1VVvPH17RvH23X9qE18nd4QEKbH7isR/view?usp=sharing">Link</a>
+YouTube Demo Video Link - https://youtu.be/I8gClb1xTpQ
